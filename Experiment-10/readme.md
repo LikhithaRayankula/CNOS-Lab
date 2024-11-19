@@ -1,8 +1,8 @@
 # program file
-![program file](producer-consumer.py)
+![program file](Producer-Consumer.py)
 
 # program image
-![program image](producer-consumer_program.png)
+![program image](Producer-Consumer_Program.png)
 
 # program output
-![program output](producer-consumer_output.png)
+![program output](Producer-Consumer_Output.png)
